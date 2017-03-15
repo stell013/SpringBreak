@@ -1,7 +1,10 @@
-n = raw_input ("Please enter your name: ")
+
+
+n = raw_input ("Please enter your username: ")
 s = input ("Enter the year you were born: ")
 H = raw_input ("Enter the name of the college you're transfered from: " )
-               
+
+
 
 
 
